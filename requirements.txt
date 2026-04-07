@@ -1,0 +1,8 @@
+typer
+fastapi
+uvicorn
+pydantic
+httpx
+colorama
+pyyaml
+tqdm
