@@ -1,4 +1,4 @@
-# 🔓 Claude Opus 4.6 Unlocked
+# 🔓 Claude Opus 4.7 Unlocked
 
 <div align="center">
   <a href="../../releases/latest">
