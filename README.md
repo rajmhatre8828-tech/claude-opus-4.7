@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="../../releases/latest">
-    <img width="1200" alt="Claude Opus 4.6 Unlocked." src="assets/opus.png" />
+    <img width="1200" alt="Claude Opus 4.6 Unlocked." src="assets/claudeopus.png" />
   </a>
 </div>
 
