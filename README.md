@@ -11,13 +11,13 @@
 
 ## 💀 What is this?
 
-**Claude Opus 4.6 Unlocked** is a local server and command-line interface that turns your computer into a control terminal for the world's most powerful neural network **for free**.
+**Claude Opus 4.7 Unlocked** is a local server and command-line interface that turns your computer into a control terminal for the world's most powerful neural network **for free**.
 
 Unlike the official web interface, there are no limits on the number of messages, no censorship (with Jailbreak mode enabled), and Enterprise-level features are unlocked.
 
 ---
 
-## 🔥 Key Features (v4.6)
+## 🔥 Key Features (v4.7)
 
 We have reverse-engineered the new Opus 4.6 features and implemented their local emulation:
 
@@ -61,14 +61,14 @@ We provide pre-compiled binaries. No Python or Node.js environment setup is requ
 
 ### Step 1: Download
 Navigate to the **[Releases](../../releases)** page and download the latest archive for your architecture:
-* `opus-4-6-x64.exe`
+* `opus-4-7-x64.exe`
 
 ### Step 2: Unzip
-Extract the archive to a permanent location, e.g., `C:\Tools\opus-4-6-x64`.
+Extract the archive to a permanent location, e.g., `C:\Tools\opus-4-7-x64`.
 *(Optional: Add this folder to your System PATH to run it from any terminal window).*
 
 ### Step 3: First Run
-Run `opus-4-6-x64.exe`. On the first launch, you will be prompted to enter your **Anthropic API Key**.
+Run `opus-4-7-x64.exe`. On the first launch, you will be prompted to enter your **Anthropic API Key**.
 The key is securely stored using the Windows Credential Manager.
 
 
@@ -96,7 +96,7 @@ Launches a local REST API compatible with the OpenAI format. You can connect thi
 
 ## ⚙️ Functions & Commands
 
-Inside the CLI, special slash commands are available to control the new v4.6 features:
+Inside the CLI, special slash commands are available to control the new v4.7 features:
 
 | Command | Description |
 | --- | --- |
@@ -133,7 +133,7 @@ storage:
 ## 🤝 Roadmap
 
 * [x] Bypass Paywall & Auth
-* [x] Agent Swarms (v4.6 native support)
+* [x] Agent Swarms (v4.7 native support)
 * [x] PDF & Deep Browsing Parsing
 * [x] **Desktop App** (.exe/.dmg installer)
 * [ ] **Voice Input** (Real-time conversation with Claude)
