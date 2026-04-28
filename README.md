@@ -1,4 +1,4 @@
-    # 🔓 Claude Opus 4.7 Unlocked
+    # unlock oupus 4.7
 
 <div align="center">
   <a href="../../releases/latest">
